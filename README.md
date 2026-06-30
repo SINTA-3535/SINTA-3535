@@ -24,19 +24,17 @@
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 
-<a href="YOUR_LINKEDIN_URL">
+
+<a href="https://www.linkedin.com/in/sinta-maria-richard-61132b255/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sintamariarichard@gmal.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/SINTA-3535">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -58,7 +56,7 @@
 
 # About Me
 
-I'm a **B.Tech graduate in Electrical and Computer Engineering** with a strong passion for **Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence**.
+I'm a B.Tech graduate in Electrical and Computer Engineering with a strong passion for **Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence**.
 
 My journey into data began with building real-world analytical projects using **Python, SQL, Excel, Power BI, Tableau, and Machine Learning**, where I learned how raw data can be transformed into meaningful insights that support better decision-making.
 
@@ -83,7 +81,6 @@ I enjoy solving practical business problems using data and continuously learning
 - Machine Learning Intern
 - AI Intern
 - Data Science Intern
-- Python Developer (Entry Level)
 
 ---
 
@@ -93,7 +90,7 @@ I enjoy solving practical business problems using data and continuously learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,mysql"/>
 
 </p>
 
@@ -121,7 +118,6 @@ I enjoy solving practical business problems using data and continuously learning
 
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
 
 </p>
 
@@ -167,23 +163,13 @@ I enjoy solving practical business problems using data and continuously learning
 
 ---
 
-## Currently Learning
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,docker"/>
-
-</p>
-
----
-
 ## Core Skills
 
 | Category | Skills |
 |-----------|--------|
 | Data Analytics | Python, SQL, Excel, Power BI, Tableau |
 | Machine Learning | Regression, Classification, Feature Engineering |
-| Programming | Python, Java, HTML5, CSS3 |
+| Programming | Python, HTML5, CSS3 |
 | Databases | MySQL |
 | Visualization | Power BI, Tableau, Matplotlib |
 | Libraries | Pandas, NumPy, Scikit-learn |
