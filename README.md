@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer;SQL+%7C+Excel+%7C+Tableau;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer;SQL+%7C+Excel+%7C+Tableau;Always+Learning+New+Technologies)])
 
 </div>
 
