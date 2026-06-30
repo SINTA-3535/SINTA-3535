@@ -181,18 +181,6 @@ I enjoy solving practical business problems using data and continuously learning
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<p><b>⚠️ Note:</b> The snake animation will work only after setting up a GitHub Actions workflow.</p>
-
-<img src="https://raw.githubusercontent.com/SINTA-3535/SINTA-3535/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 
 # Let's Connect
 
