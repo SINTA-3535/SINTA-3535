@@ -1,16 +1,195 @@
-## Hi there 👋
+<!-- ========================= HEADER ========================= -->
 
-<!--
-**SINTA-3535/SINTA-3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Sinta%20Maria%20Richard&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20AI%20Learner&descAlignY=58"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Power+BI+Developer;SQL+%7C+Excel+%7C+Tableau;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/B.Tech-Electrical%20%26%20Computer%20Engineering-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Fresher-Open%20to%20Work-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Kerala,%20India-6D28D9?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github)
+
+![](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge)
+
+</div>
+
+---
+
+# About Me
+
+I'm a **B.Tech graduate in Electrical and Computer Engineering** with a strong passion for **Data Analytics, Machine Learning, Artificial Intelligence, and Business Intelligence**.
+
+My journey into data began with building real-world analytical projects using **Python, SQL, Excel, Power BI, Tableau, and Machine Learning**, where I learned how raw data can be transformed into meaningful insights that support better decision-making.
+
+Currently, I'm focused on strengthening my skills in:
+
+- Data Analytics
+- Machine Learning
+- Predictive Analytics
+- Business Intelligence
+- Data Visualization
+- Statistical Analysis
+
+I enjoy solving practical business problems using data and continuously learning modern technologies that improve analytical decision-making.
+
+---
+
+# Open To
+
+- Data Analyst
+- Junior Data Analyst
+- Business Intelligence Analyst
+- Machine Learning Intern
+- AI Intern
+- Data Science Intern
+- Python Developer (Entry Level)
+
+---
+
+# Tech Stack
+
+## Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql"/>
+
+</p>
+
+---
+
+## Data Analytics
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Machine Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Regression-6D28D9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Classification-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Preprocessing-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Feature%20Engineering-5B21B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/EDA-8B5CF6?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## Development Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github"/>
+
+</p>
+
+---
+
+## Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,docker"/>
+
+</p>
+
+---
+
+## Core Skills
+
+| Category | Skills |
+|-----------|--------|
+| Data Analytics | Python, SQL, Excel, Power BI, Tableau |
+| Machine Learning | Regression, Classification, Feature Engineering |
+| Programming | Python, Java, HTML5, CSS3 |
+| Databases | MySQL |
+| Visualization | Power BI, Tableau, Matplotlib |
+| Libraries | Pandas, NumPy, Scikit-learn |
+| Version Control | Git, GitHub |
+| Soft Skills | Communication, Teamwork, Problem Solving, Analytical Thinking |
+
+---
+
+# AI / Machine Learning Expertise
