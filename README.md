@@ -171,41 +171,11 @@ I enjoy solving practical business problems using data and continuously learning
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=10"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SINTA-3535&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -217,59 +187,29 @@ I enjoy solving practical business problems using data and continuously learning
 
 <p><b>⚠️ Note:</b> The snake animation will work only after setting up a GitHub Actions workflow.</p>
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/SINTA-3535/SINTA-3535/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced SQL
-  - Data Visualization
-  - Machine Learning
-  - Business Intelligence
-
-Building:
-  - Data Analytics Portfolio
-  - Power BI Dashboards
-  - Python Data Analysis Projects
-
-Exploring:
-  - Generative AI
-  - Data Engineering
-  - Cloud Analytics
-
-Open_To:
-  - Junior Data Analyst Roles
-  - Data Analyst Roles
-  - Business Intelligence Roles
-  - Analytics Internships
-```
-
----
 
 # Let's Connect
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:sintamariarichard@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sinta-maria-richard-61132b255/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/SINTA-3535">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 
 </div>
 
