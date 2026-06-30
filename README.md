@@ -63,11 +63,12 @@ I enjoy solving practical business problems using data and continuously learning
 
 # Open To
 
-- Data Analyst
 - Junior Data Analyst
+- Data Analyst
 - Business Intelligence Analyst
-- Machine Learning Intern
-- AI Intern
+- Business Analyst
+- Data Analytics Intern
+- Business Intelligence Intern
 - Data Science Intern
 
 ---
