@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Power+BI+Developer;SQL+%7C+Excel+%7C+Tableau;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer;SQL+%7C+Excel+%7C+Tableau;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,18 +37,6 @@
 <a href="https://github.com/SINTA-3535">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github)
-
-![](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge)
 
 </div>
 
