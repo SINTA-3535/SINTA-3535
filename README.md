@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:9333EA&text=Sinta%20Maria%20Richard&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast%20%7C%20AI%20Learner&descAlignY=58"/>
 
 </div>
-
+ 
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Power+BI+Developer;SQL+%7C+Excel+%7C+Tableau;Always+Learning+New+Technologies)
