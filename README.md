@@ -163,7 +163,7 @@ I enjoy solving practical business problems using data and continuously learning
 | Visualization | Power BI, Tableau, Matplotlib |
 | Libraries | Pandas, NumPy, Scikit-learn |
 | Version Control | Git, GitHub |
-| Soft Skills | Communication, Teamwork, Problem Solving, Analytical Thinking |
+| Soft Skills | Communication, Teamwork, Problem Solving, Analytical Thinking | 
 
 ---
 
