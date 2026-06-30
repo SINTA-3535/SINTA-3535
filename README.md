@@ -166,4 +166,3 @@ I enjoy solving practical business problems using data and continuously learning
 
 ---
 
-# AI / Machine Learning Expertise
